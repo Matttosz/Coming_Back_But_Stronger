@@ -1,0 +1,29 @@
+package exemploUm;
+
+import java.util.Scanner;
+
+public class adicionalNoturno {
+
+	public static void main(String[] args) {
+		Scanner read = new Scanner(System.in);
+		
+		System.out.println("---- Por favor, insira o valor de seu sálario bruto: \n---- Ex: 2.200");
+		System.out.print("---- R$");
+		double ValorSalario = read.nextDouble();
+		System.out.println("---- Por favor, insira o valor do adicional noturno: \n---- Ex: 2.200");
+		System.out.print("---- R$");
+		double ValorNoturno = read.nextDouble();
+		System.out.println("---- Por favor, insira o valor das horas extras contabilizadas: \n---- Ex: 2.200");
+		System.out.print("---- R$");
+		double ValorHoraExtra = read.nextDouble();
+		System.out.println("---- Por favor, insira o valor dos possíveis descontos: \n---- Ex: 2.200");
+		System.out.print("---- R$");
+		double ValorDescontos = read.nextDouble();
+		
+		
+		double ValorSalarioLiquido = (ValorSalario + ValorNoturno + (ValorHoraExtra * 5 ) - ValorDescontos);
+		System.out.println("---- Aqui está o valor de seu salário corrigido com o abono, horas extras, adicional noturno e possiveis descontos: \n---- R$" + ValorSalarioLiquido);
+
+	}
+
+}

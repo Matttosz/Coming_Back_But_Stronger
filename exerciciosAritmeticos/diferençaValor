@@ -1,0 +1,29 @@
+package exemploUm;
+
+import java.util.Scanner;
+
+public class diferençaDeValor {
+	public static void main(String[] args) {
+		Scanner read = new Scanner(System.in);
+		
+		float[] numerosInseridos = new float[4];
+		System.out.println("---- Bem-Vindo ao comparador numérico ----");
+		
+		for (int perguntas = 0; perguntas < 4; perguntas++ ) {
+			
+			System.out.println("---- Digite o " +(perguntas + 1)+ "º " + "Numero a ser comparado abaixo!\n---- Ex:7,0" );
+			System.out.print("Valor:");
+			
+			numerosInseridos[perguntas] = read.nextFloat();	
+		}
+		
+		float primeiroProduto = numerosInseridos[0] * numerosInseridos[1];
+        float segundoProduto = numerosInseridos[2] * numerosInseridos[3];
+        float diferenca = primeiroProduto - segundoProduto;
+
+        System.out.printf("DIFERENÇA = %.2f\n", diferenca);
+		
+}
+}
+
+

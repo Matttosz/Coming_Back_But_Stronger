@@ -1,0 +1,21 @@
+package exemploUm;
+
+import java.util.Scanner;
+
+public class abonoSalarial {
+
+	public static void main(String[] args) {
+		Scanner read = new Scanner(System.in);
+		
+		System.out.println("Por favor, insira o valor de seu sálario bruto: \nEx: 2.200");
+		System.out.print("R$");
+		double ValorSalario = read.nextInt();
+		System.out.println("Por favor, insira o valor do abono recebido: \nEx: 2.200");
+		System.out.print("R$");
+		double ValorAbono = read.nextInt();
+		
+		double ValorSalarioLiquido = (ValorSalario + ValorAbono);
+		System.out.println("Aqui está o valor de seu salário corrigido com o abono: \nR$" + ValorSalarioLiquido);
+	}
+
+}

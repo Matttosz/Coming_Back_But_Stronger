@@ -14,7 +14,7 @@ public class MediaNotas {
             	{
                 System.out.print("  Nota " + (Aluno + 1) + ": ");
                 NotasAlunos[Notas][Aluno] = read.nextDouble();
-            	}A
+            	}
         }
 
         for (int i = 0; i < 10; i++)

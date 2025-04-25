@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
   <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
   <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
-  <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
 </div>
 
 ------

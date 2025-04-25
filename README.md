@@ -10,11 +10,11 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
-  <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
-  <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
-  <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
-  <img src="https://img.shields.io/github.com/Matttosz/Coming_Back_But_Stronger.git?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/rafaelq80/aulas_java_t82?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/rafaelq80/aulas_java_t82?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/rafaelq80/aulas_java_t82?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/rafaelq80/aulas_java_t82?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/rafaelq80/aulas_java_t82?style=flat-square" />
   <img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
 </div>
 
